@@ -1,4 +1,4 @@
-# buzzline-02-case
+# buzzline-02-ragini
 
 Streaming data is often too big for any one machine. Apache Kafka is a popular streaming platform that uses publish-subscribe patterns:
 
@@ -14,11 +14,11 @@ It also comes from the Linux world. We'll use WSL on Windows machines.
 ## Copy This Example Project & Rename
 
 1. Copy/fork this project into your GitHub account and create your own version of this project to run and experiment with.
-2. Name it `buzzline-02-yourname` where yourname is something unique to you.
+2. I name it 'buzzline-02-ragini'
 
 ## Task 1. Install and Start Kafka (using WSL if Windows)
 
-Before starting, ensure you have completed the setup tasks in <https://github.com/denisecase/buzzline-01-case> first.
+Before starting, I ensure that I  have completed the setup tasks in <https://github.com/denisecase/buzzline-01-case> first.
 Python 3.11 is required.
 
 In this task, we will download, install, configure, and start a local Kafka service.
