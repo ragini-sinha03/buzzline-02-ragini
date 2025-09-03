@@ -66,6 +66,10 @@ def generate_messages(producer, topic, interval_secs):
         "Streaming data is fun.",
         "This is a buzz message.",
         "Have a great day!",
+        "Hello Kafka",
+        "This is message 2",
+        "Testing Apache Kafka",
+        "Final test message",
     ]
     try:
         while True:
